@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Deepesh Yadav
 
 [![GitHub](https://img.shields.io/badge/GitHub-DeepeshYadav-181717?logo=github&logoColor=white)](https://github.com/ydvdeepesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepesh%20Yadav-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/deepesh-yadav-b317321a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepeshYadav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-yadav-b317321a2/)
 [![Email](https://img.shields.io/badge/Email-deepeshdeu%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:deepeshdeu@gmail.com)
 
 ![AI](https://img.shields.io/badge/AI-Generative%20AI%20%7C%20LLMs-purple)
@@ -48,7 +48,7 @@ My work focuses on integrating **AI into systems engineering workflows** — fro
 ## 📫 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-DeepeshYadav-181717?logo=github&logoColor=white)](https://github.com/ydvdeepesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepesh%20Yadav-0A66C2?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/deepesh-yadav-b317321a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeepeshYadav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepesh-yadav-b317321a2/)
 [![Email](https://img.shields.io/badge/Email-deepeshdeu%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:deepeshdeu@gmail.com)
 
 *I’m especially interested in roles that combine **AI and Systems Engineering** to improve how complex systems are designed, analyzed, and evolved.*
